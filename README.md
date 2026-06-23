@@ -29,4 +29,4 @@ A Streamlit web application that summarizes content from **YouTube videos** and 
 
 ```bash
 git clone https://github.com/yourusername/langchain-summarizer.git
-cd langchain-summarizer
+cd Text-Summarization
