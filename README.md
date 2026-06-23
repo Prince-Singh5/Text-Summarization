@@ -28,5 +28,5 @@ A Streamlit web application that summarizes content from **YouTube videos** and 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/langchain-summarizer.git
+git clone https://github.com/yourusername/Text-Summarization.git
 cd Text-Summarization
